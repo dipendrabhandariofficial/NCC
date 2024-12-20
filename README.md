@@ -1,0 +1,2 @@
+# NCC
+This is practical
